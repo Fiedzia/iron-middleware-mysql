@@ -1,6 +1,6 @@
 [package]
 name = "iron-middleware-mysql"
-version = "0.0.1"
+version = "0.0.2"
 authors = ["Maciej Dziardziel <fiedzia@gmail.com>"]
 description = "Mysql middleware for iron"
 keywords = ["iron", "mysql", "middleware"]
