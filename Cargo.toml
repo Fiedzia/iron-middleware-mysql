@@ -1,0 +1,13 @@
+[package]
+name = "iron-middleware-mysql"
+version = "0.0.1"
+authors = ["Maciej Dziardziel <fiedzia@gmail.com>"]
+description = "Mysql middleware for iron"
+keywords = ["iron", "mysql", "middleware"]
+license = "Apache-2.0"
+repository = "https://github.com/Fiedzia/iron-middleware-mysql"
+homepage = "https://github.com/Fiedzia/iron-middleware-mysql"
+
+[dependencies]
+iron = "0.3.0"
+mysql = "5.1.0"
