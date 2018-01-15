@@ -4,7 +4,7 @@ extern crate mysql;
 // insert database connection into request
 use iron::{BeforeMiddleware, typemap};
 use iron::prelude::{IronResult, Request};
-use mysql::conn::pool::Pool;
+use mysql::Pool;
 
 
 pub struct DBPool {

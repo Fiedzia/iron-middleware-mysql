@@ -9,5 +9,5 @@ repository = "https://github.com/Fiedzia/iron-middleware-mysql"
 homepage = "https://github.com/Fiedzia/iron-middleware-mysql"
 
 [dependencies]
-iron = "0.3.0"
-mysql = "5.1.0"
+iron = "0.6.0"
+mysql = "12.1.0"
